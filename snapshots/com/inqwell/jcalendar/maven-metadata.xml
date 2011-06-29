@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.inqwell</groupId>
+  <artifactId>jcalendar</artifactId>
+  <versioning>
+    <versions>
+      <version>1.3.3-inqwell-1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110629122553</lastUpdated>
+  </versioning>
+</metadata>
