@@ -8,6 +8,5 @@
   <packaging>jar</packaging>
   <name>JMS</name>
   <description>Publish JMS to a Local Repository</description>
-  <url>http://github.com/inqwell/mvn-repo/releases</url>
 
 </project>
