@@ -3,10 +3,11 @@
   <groupId>org.dockingframes</groupId>
   <artifactId>docking-frames</artifactId>
   <versioning>
-    <release>1.1.1p5a</release>
+    <release>1.1.1p5c</release>
     <versions>
       <version>1.1.1p5a</version>
+      <version>1.1.1p5c</version>
     </versions>
-    <lastUpdated>20110908131901</lastUpdated>
+    <lastUpdated>20111012200552</lastUpdated>
   </versioning>
 </metadata>
